@@ -18,7 +18,7 @@ public class SimpleTests {
 
     @Test
     void test03() {
-        assertTrue(true);
+        assertTrue(false);
     }
 
     @Test
